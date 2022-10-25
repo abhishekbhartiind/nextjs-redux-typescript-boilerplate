@@ -8,8 +8,11 @@ Start off your writing journey with this repo
 
 - Next.js 12! 
 - Redux Toolkit
-- TypeScript 
+- TypeScript
 - Optimized Project Structure
+- Jest Testing
+- Prettier Package
+- Husky Configuration
 - Streamlined styling experience with [Tailwind.css](https://tailwindcss.com/).
 - Customizable typographic defaults with [Tailwind Typography](https://github.com/tailwindlabs/tailwindcss-typography)
 - Automatic image preview and optimization with [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images).
